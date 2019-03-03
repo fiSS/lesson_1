@@ -18,4 +18,4 @@ questions4 = prompt('Во сколько обойдется?', '');
 
 appData.expenses.questions1 = questions2;
 appData.expenses.questions3 = questions4;
-alert(appData.Budget / 30);
+alert (appData.Budget / 30);
